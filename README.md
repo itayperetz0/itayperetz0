@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itayperetz0
 - 👀 I’m interested in an intern Job as a software developer
-- 🌱 I’m currently learning computer science in The Open university of Israel 
+- 🌱 I’m currently studying computer science in The Open university of Israel 
 - 📫 How to reach me : via linkdin https://www.linkedin.com/in/itay-peretz-9868941ba/
 
 <!---
